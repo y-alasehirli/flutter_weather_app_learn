@@ -1,4 +1,4 @@
-# flutter33_hava_durumu_app
+# hava_durumu_app
 
 A new Flutter project.
 
